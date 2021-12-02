@@ -93,7 +93,7 @@ def main():
 	print('\n')
 	input("Hit enter to continue.")
 
-	os.system('title EZ Raider [Nightfall#2512] ^| ')
+	os.system('snyc x [snyc#0001] ^| ')
 	clear()
 
 	print("Close the application or hit Control+C to stop spamming. \n")
@@ -116,16 +116,17 @@ def main():
 
 def menu():
 	clear()
-	os.system('title EZ Raider [Nightfall#2512] ^| A simple discord server raider.')
+	os.system('snyc raider x | .gg/afraid')
 	print(f'''
 		{Fore.RED}
-		▄███▄   ▄▄▄▄▄▄       █▄▄▄▄ ██   ▄█ ██▄   ▄███▄   █▄▄▄▄     
-		█▀   ▀ ▀   ▄▄▀       █  ▄▀ █ █  ██ █  █  █▀   ▀  █  ▄▀     
-		██▄▄    ▄▀▀   ▄▀     █▀▀▌  █▄▄█ ██ █   █ ██▄▄    █▀▀▌      
-		█▄   ▄▀ ▀▀▀▀▀▀       █  █  █  █ ▐█ █  █  █▄   ▄▀ █  █      
-		▀███▀                  █      █  ▐ ███▀  ▀███▀     █       
-		                      ▀      █                    ▀        
-		                            ▀      Nightfall #2512     {Style.RESET_ALL}               
+		.d8888b  88888b.  888  888  .d8888b     888  888 
+88K      888 "88b 888  888 d88P"        `Y8bd8P' 
+"Y8888b. 888  888 888  888 888            X88K   
+     X88 888  888 Y88b 888 Y88b.        .d8""8b. 
+ 88888P' 888  888  "Y88888  "Y8888P     888  888 
+                       888                       
+                  Y8b d88P                       
+                   "Y88P      again #0001     {Style.RESET_ALL}               
 ''')
 if __name__ == "__main__":
 	main()
